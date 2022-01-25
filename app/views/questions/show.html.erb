@@ -1,0 +1,11 @@
+  <%= form_for [@questionnaire, @question], remote: true do |form| %>
+
+  <%= @question.content %>
+
+  <% @question.answers.each do |answer| %>
+    <p><%= answer.content %></p>
+  <% end %>
+
+  <%= form.submit %>
+<% end %>
+    

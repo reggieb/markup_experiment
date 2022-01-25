@@ -1,0 +1,8 @@
+<h1>Questionnaires</h1>
+<p>The following subject areas are available</p>
+
+<ul>
+  <% @questionnaires.each do |questionnaire|  %>
+    <li><%= link_to questionnaire.content['header'], questionnaire %></li>
+  <% end %>
+</ul>
