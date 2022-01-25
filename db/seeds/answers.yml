@@ -1,0 +1,21 @@
+---
+male: Male
+female: Female
+east_of_england: Each of England
+east_midlands: East Midlands
+london: London
+north_east: North East
+north_west: North West
+northern_ireland: Northern Ireland
+scotland: Scotland
+south_east: South East
+south_west: South West
+wales: Wales
+west_midlands: West Midlands
+yorkshire_humberside: Yorkshire / Humberside
+white: White
+black: Black/Black British
+asian: Asian/Asian British
+mixed: Mixed
+other: Other
+prefer_not_to_say: Prefer not to say

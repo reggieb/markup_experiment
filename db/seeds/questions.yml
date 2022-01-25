@@ -1,0 +1,30 @@
+---
+gender:
+  content: Which gender are you?
+  answers:
+    - male
+    - female
+region:
+  content: In what region do you live?
+  answers:
+    - east_of_england
+    - east_midlands
+    - london
+    - north_east
+    - north_west
+    - northern_ireland
+    - scotland
+    - south_east
+    - south_west
+    - wales
+    - west_midlands
+    - yorkshire_humberside
+ethnicity:
+  content:
+  answers:
+    - white
+    - black
+    - asian
+    - mixed
+    - other
+    - prefer_not_to_say

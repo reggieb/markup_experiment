@@ -1,0 +1,10 @@
+---
+# From https://www.lse.ac.uk/media-and-communications/assets/documents/research/preparing-for-a-digital-future/Questionnaire.pdf
+lse_questionnaire:
+  content:
+    header: Survey questionnaire
+    body: The main part of this survey is about your use of the internet, and how your child(ren) use the internet, but we have a few profile questions for you to answer first.
+  questions:
+    - gender
+    - region
+    - ethnicity
